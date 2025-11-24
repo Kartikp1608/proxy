@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api/recommend.js": {
+      "maxDuration": 10,
+      "memory": 128
+    }
+  }
+}
